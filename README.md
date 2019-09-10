@@ -6,7 +6,7 @@
 
  - Users register
  - Users login/verify
- - users profile/modify password
+ - Users profile/modify password
  - Show all online/offline users
  - Users enter and leave the chat room system to send a broadcast
  - Live chat without delay

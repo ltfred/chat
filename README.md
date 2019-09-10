@@ -1,14 +1,14 @@
 ### This is a simple webchat system.
 
--  本系统采用 Python + Django + Django Channels + bootstrap + MySQL + Redis 搭建。
+-  This system base on Python + Django + Django Channels + bootstrap + MySQL + Redis build
 
-### 实现功能
+### Functions
 
- - 用户注册
- - 用户登录验证
- - 查看用户信息和修改密码
- - 显示所有在线用户和离线用户
- - 用户进入和离开聊天室系统会发送广播
- - 实时聊天无延时
+ - Users register
+ - Users login/verify
+ - users profile/modify password
+ - Show all online/offline users
+ - Users enter and leave the chat room system to send a broadcast
+ - Live chat without delay
 
 

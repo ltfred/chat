@@ -1,6 +1,6 @@
 ### This is a simple webchat system.
 
-### 本系统采用 Python + Django + Django Channels + bootstrap + MySQL + Redis 搭建。
+-  本系统采用 Python + Django + Django Channels + bootstrap + MySQL + Redis 搭建。
 
 ### 实现功能
 
